@@ -3,7 +3,7 @@
 ### 🚀 About Me  
 💻 I'm a **Software Architecture Engineer** and **IT Trainer**, specializing in **Spring, Angular, DevOps**.  
 🎓 Certified **Scrum Master**.  
-📢 Passionate about **backend development, clean code, and DevOps best practices**.  
+📢 Passionate about **backend development, clean code, and DevOps**.  
 
 
 ### 📫 Connect with Me  
