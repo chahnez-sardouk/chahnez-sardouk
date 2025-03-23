@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there, I'm Chahnez 👋  
 
-<!--
-**chahnez-sardouk/chahnez-sardouk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me  
+💻 I'm a **Software Architecture Engineer** and **IT Trainer**, specializing in **Spring, Angular, DevOps**.  
+🎓 Certified **Scrum Master**.  
+📢 Passionate about **backend development, clean code, and DevOps best practices**.  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chahnez-sardouk/)  
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@chahnez.sardouk)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chahnezsardouk)  
+
